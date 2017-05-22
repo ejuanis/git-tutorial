@@ -1,2 +1,4 @@
 # git-tutorial
-APPLE
+Orange
+Banana
+Peach
