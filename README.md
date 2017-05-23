@@ -1,6 +1,6 @@
 # git-tutorial
 APPLE
+Blueberry
 Orange
 Banana
-Blueberry
 Peach
